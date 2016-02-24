@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ITwitter</string>
+    <string name="app_othername">IT圈</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- fontawesome -->
+    <string name="heard"></string>
+    <string name="fa_google_plus"></string>
+    <string name="fa_save"></string>
+    <string name="fa_thumbs_o_up"></string>
+    <string name="fa_toggle_on"></string>
+</resources>
